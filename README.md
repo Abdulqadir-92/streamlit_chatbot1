@@ -1,6 +1,12 @@
 # 🚢 Titanic Interactive Dashboard with AI Chatbot
 📖 Overview
 
+<img width="1901" height="937" alt="Screenshot 2025-12-31 101730" src="https://github.com/user-attachments/assets/c0443e3a-ffbe-4895-a87e-838ffdb55510" />
+<img width="1874" height="1056" alt="Screenshot 2025-12-31 101952" src="https://github.com/user-attachments/assets/5ea83165-ede8-42df-b33d-81e572c547e5" />
+<img width="1908" height="1073" alt="Screenshot 2025-12-31 102014" src="https://github.com/user-attachments/assets/9400755e-72e3-4259-8aac-b0a20446841e" />
+
+<img width="1907" height="901" alt="Screenshot 2025-12-31 102033" src="https://github.com/user-attachments/assets/46ee9bd8-3688-4fd9-956f-215c83269ddb" />
+
 This project is an interactive data analytics dashboard built using Streamlit, enhanced with an AI-powered conversational chatbot.
 It allows users to upload the Titanic dataset, explore key insights through visualizations, apply filters, and ask natural language questions about the data using an LLM powered by OpenRouter.
 
